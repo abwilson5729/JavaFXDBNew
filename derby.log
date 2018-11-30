@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 30 11:15:38 EST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0167-6567-7547-00000667e5f0 
+on database directory C:\Users\abwilson5729\OneDrive - Florida Gulf Coast University\IntelliJ Projects\JavaFXDB\lib\books with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/abwilson5729/OneDrive%20-%20Florida%20Gulf%20Coast%20University/IntelliJ%20Projects/JavaFXDB/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\abwilson5729\OneDrive - Florida Gulf Coast University\IntelliJ Projects\JavaFXDB
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
